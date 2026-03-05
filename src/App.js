@@ -4,6 +4,9 @@ import Firstcomponent from './components/First component';
 import Secondcomponent from './components/Secondcomponent';
 import Thirdcomponent from './components/Thirdcomponent';
 import Fourthcomponent from './components/Fourthcomponent';
+import Fifthcomponent from './components/Fifthcomponent';
+import Sixthcomponent from './components/Sixthcomponent';
+import Seventhcomponent from './components/Seventhcomponent';
 
 function App() {
   return (
@@ -19,6 +22,9 @@ function App() {
         <Secondcomponent/>
         <Thirdcomponent/>
         <Fourthcomponent/>
+        <Fifthcomponent/>
+        <Sixthcomponent/>
+        <Seventhcomponent/>
         
     </div>
   );
