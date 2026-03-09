@@ -60,3 +60,26 @@
   text-decoration: solid;
   text-decoration: blueviolet;
 }
+.Notfound{
+  font-size:50px;
+  color: red;
+  font-weight: 900;
+}
+nav{
+  background-color: aquamarine;
+  padding: 20px;
+}
+
+.navlinks{
+  margin: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: azure;
+  padding: 8px;
+  border-radius: 10px;
+  font-weight: 500;
+}
+.navlinks:hover{
+  background-color: bisque;
+  color: white;
+}
